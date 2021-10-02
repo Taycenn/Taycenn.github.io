@@ -1,0 +1,15 @@
+*{
+    background: #16a085;
+}
+
+.main {
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+.main a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.473);
+    font-weight: bolder;
+}
